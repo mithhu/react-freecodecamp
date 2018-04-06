@@ -43,4 +43,7 @@ class MyToDoList extends React.Component {
         <ul>
           {items}
         </ul>
-      
+      </div>
+    );
+  }
+};
